@@ -1,4 +1,4 @@
-# 자동 손 탐지기
+# 큰 이미지에서 자동 손 탐지
 <br/>
 작은 이미지의 경우 mediapipe 라이브러리를 사용하면 쉽게 손을 탐지할 수 있지만, 큰 이미지의 경우 인식률이 떨어지는 경우가 발생합니다.
 <br/>
@@ -12,7 +12,7 @@
 그 영역에서 mediapipe로 손을 탐지합니다.
 <br/>
 <br/>
-<h1> Automatic-Hand-Detection </h1>
+<h1> Automatic Hand Detection In Large Images </h1>
 <br/>
 For small images, the mediapipe library can easily detect hands, but for large images, the recognition rate may be low.
 <br/>
